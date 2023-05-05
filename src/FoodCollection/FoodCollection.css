@@ -1,0 +1,24 @@
+.mainlft {
+    background-image: url(../../src//images/bigpic.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+}
+.mainrgt {
+    background-image: url(../../src/images/bigpic-two.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+}
+/* .food h1,h3, h4{
+    font-family: 'Roboto', sans-serif;
+} */
+/* .food p{
+    font-family: 'Comme', sans-serif;
+} */
+.mainlft h1{
+    color: rgb(255, 123, 0);
+}
+.mainrgt h1{
+    color: rgb(255, 123, 0);
+}

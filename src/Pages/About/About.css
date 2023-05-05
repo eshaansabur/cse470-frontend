@@ -1,0 +1,12 @@
+.about h1,h3, h4{
+    font-family: 'Roboto', sans-serif;
+}
+.about p{
+    font-family: 'Comme', sans-serif;
+}
+.maintxt {
+    background-image: url(../../images/contact.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 400px;
+}
